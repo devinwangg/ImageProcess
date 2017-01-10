@@ -13,7 +13,7 @@
 ```
 255 - 原像素值
 ```
-![](Negative.bmp)
+![](negative.bmp)
 
 ### Gamma值小於1
 ```
